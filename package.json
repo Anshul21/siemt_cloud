@@ -30,5 +30,7 @@
     "nan": "*"
   },
 
-  "engine": "node >= 0.4.1"
+ "engines": {
+    "node": "5.1.0"
+  }
 }
