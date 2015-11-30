@@ -25,7 +25,9 @@
     "passport-local": "^1.0.0",
     "properties": "1.2.1",
     "sensortag": "*",
-    "socket.io": "*"
+    "socket.io": "*",
+    "bindings": "1.2.x",
+    "nan": "^2.0.5"
   },
 
   "engine": "node >= 0.4.1"
