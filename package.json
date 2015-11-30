@@ -29,7 +29,8 @@
     "bindings": "*",
     "nan": "*",
     "ws": "*",
-    "bufferutil":"*"
+    "bufferutil":"*",
+    "usb": "*"
   },
 
  "engines": {
