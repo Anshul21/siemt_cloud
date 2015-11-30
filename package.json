@@ -27,7 +27,8 @@
     "sensortag": "*",
     "socket.io": "*",
     "bindings": "*",
-    "nan": "*"
+    "nan": "*",
+    "ws": "*"
   },
 
  "engines": {
