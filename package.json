@@ -30,7 +30,8 @@
     "nan": "*",
     "ws": "*",
     "bufferutil":"*",
-    "usb": "*"
+    "usb": "*",
+    "node-pre-gyp": "*"
   },
 
  "engines": {
