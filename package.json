@@ -26,5 +26,7 @@
     "properties": "1.2.1",
     "sensortag": "*",
     "socket.io": "*"
-  }
+  },
+
+  "engine": "node >= 0.4.1"
 }
